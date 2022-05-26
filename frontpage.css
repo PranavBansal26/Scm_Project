@@ -16,7 +16,7 @@
 /*Animation change right to left*/
 @keyframes nav{
 	0% {
-		background-image:linear-gradient(to right,rgb(0, 255, 21),blue)
+		background-image:linear-gradient(yellow);
 	}
 	100%{
 		background-image:linear-gradient(to right,blue,rgb(217, 255, 0)) 
